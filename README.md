@@ -1,5 +1,7 @@
 # wifi_password
 
+TO steal the stored wifi password in your system
+
 PowerShell Script to Retrieve Wi-Fi Passwords
 This PowerShell script is designed to retrieve Wi-Fi passwords stored on a Windows system. It utilizes netsh wlan commands to gather information about Wi-Fi profiles and their associated passwords.
 
